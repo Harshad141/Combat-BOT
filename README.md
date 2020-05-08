@@ -121,6 +121,7 @@ A servo motor is an electrical device that can push or rotate an object with gre
 >Powered directly from the board but won't recieve any instructions from it, it will show the live feed to the reciver's device or a Go-Pro will work as well.
 
 
+# _______________________________________________________________
 **We likewise vision our bot to click pictures of individuals who damage
 social separating and give an alarm when social removing is disregarded.
 Because of the lockdown as there isn't sufficient assets and equipment with
