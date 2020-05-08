@@ -89,6 +89,8 @@ LCD (Liquid Crystal Display) is a type of flat panel display which uses liquid c
 ### Metal Chassis
 The base of our bot on which every component is assembled. 
 
+![](https://github.com/Harshad141/AMI-hacks/blob/master/Components/chassis.jpg)
+
 
 ### 6V DC Motors
 Gear Motors 2 units, in addition, a freewheel in front.
@@ -113,5 +115,23 @@ A servo motor is an electrical device that can push or rotate an object with gre
 ### Mini Wireless Camara and Feed reciever
 Powered directly from the board but won't recieve any instructions from it, it will show the live feed to the reciver's device or a Go-Pro will work as well.
 
-![]()
+>We likewise vision our bot to click pictures of individuals who damage
+social separating and give an alarm when social removing is disregarded.
+Because of the lockdown as there isn't sufficient assets and equipment with
+us we could do just what we had however the model of the thought is
+prepared and it plays out all the capacities and soon as we get the alarm
+and camera both can be effectively be mounted on the bot and play out the
+predetermined capacities.
+
+-Ultrasonic sensors: Detect the separation between two individuals.
+-LCD Display: It gives the necessary directions
+-Alarm: Makes a buzz when somebody attempts to disregard social
+separating.
+-Camera : Helps in monitoring whatever is going on during the social affair.
+
+[Click Here]() for a video demonstration of a working prototype
+
+### TEAM: FireHawks
+
+
 
