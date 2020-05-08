@@ -63,6 +63,11 @@ pins followed by the digital pins.
 
 [Click Here](https://github.com/Harshad141/AMI-hacks/blob/master/Code%20for%20IDE.c) Code for Arduino IDE.
 
+Note: Use the lastest version of Arduino IDE with all the libraries installed in it. 
+
+Recommended version ARDUINO 1.8.12
+
+
 ## *Components Used*
 ### Arduino Uno
 The Arduino Uno is a microcontroller board based on the ATmega328.It has 20 digital input/output pins (of which 6 can be used as PWM outputs and 6 can be used as analog inputs), a 16 MHz resonator, a USB connection, a power jack, an in-circuit system programming ICSP) header and a reset button.
@@ -150,8 +155,15 @@ predetermined capacities.
 
 #### *Useful Links*
 [Powerpoint Presentation](https://docs.google.com/presentation/d/1Lg7Z7ok-MSCYx5nri9N9qs3nQ-s_bVMJNmFS2aFdbwE/edit#slide=id.g84df18634a_0_293)
+
+
 [Code for Arduino IDE](https://github.com/Harshad141/AMI-hacks/blob/master/Code%20for%20IDE.c)
+
+
 [Video for working prototype](https://www.youtube.com/watch?v=J2O-vX-zKc4)
+
+
+[How to upload code into Arduino](https://www.youtube.com/watch?v=twUteiSGHPs)
 
 
 ### TEAM: FireHawks
