@@ -1,6 +1,9 @@
 # _COMBAT BOT_
 ## INTRODUCTION
 > The world has been hit and shook on account of the dangerous **Corona Virus**
+![](https://github.com/Harshad141/AMI-hacks/blob/master/Components/virus.jpg)
+
+
 and nearly the total world is under lockdown so as to stop the spread of this
 coronavirus. The best way to forestall the infection is being at home and
 forestall going out at any expense.
