@@ -56,4 +56,59 @@ pins followed by the digital pins.
 
 
 [Click Here](https://docs.google.com/presentation/d/1Lg7Z7ok-MSCYx5nri9N9qs3nQ-s_bVMJNmFS2aFdbwE/edit#slide=id.p) for a PPT which which clarifies it in more detail
+
+
 [Click Here](https://github.com/Harshad141/AMI-hacks/blob/master/Code%20for%20IDE.c) Code for Arduino IDE.
+
+## Components Used
+### Arduino Uno
+The Arduino Uno is a microcontroller board based on the ATmega328.It has 20 digital input/output pins (of which 6 can be used as PWM outputs and 6 can be used as analog inputs), a 16 MHz resonator, a USB connection, a power jack, an in-circuit system programming ICSP) header and a reset button.
+
+
+![](https://github.com/Harshad141/PATH-FINDER/blob/master/components/download.jpg)
+
+
+### Ultrasonic Sensor
+An ultrasonic sensor is an instrument that measures the distance to an object using ultrasonic sound waves. An ultrasonic sensor uses a transducer to send and receive ultrasonic pulses that relay back information about an object's Proximity.
+
+
+![](https://github.com/Harshad141/PATH-FINDER/blob/master/components/ultrasonic.jpg)
+
+
+### LCD & I2C LCD Driver 
+LCD (Liquid Crystal Display) is a type of flat panel display which uses liquid crystals ins primary form of opera LCD. I2C_LCD is an easy-to-use display module, It can make the display easier. Using it can reduce the difficulty of making, So that makers can focus on the core of the work.
+
+
+![](https://github.com/Harshad141/PATH-FINDER/blob/master/components/lcd.jpg)
+![](https://github.com/Harshad141/PATH-FINDER/blob/master/components/i2c.jpg)
+
+
+### Metal Chassis
+The base of our bot on which every component is assembled. 
+
+
+### 6V DC Motors
+Gear Motors 2 units, in addition, a freewheel in front.
+
+
+![](https://github.com/Harshad141/PATH-FINDER/blob/master/components/motor.jpg)
+
+
+### Moter Drivers
+Motor drivers act as an interface between the motors and the control circuits.
+
+
+![](https://github.com/Harshad141/PATH-FINDER/blob/master/components/moterdriver.jpg)
+
+
+### Servo Moter
+A servo motor is an electrical device that can push or rotate an object with great precision. If you want to rotate and object at some specific angles or distance, then you use a servo motor.
+
+
+![](https://github.com/Harshad141/PATH-FINDER/blob/master/components/servo.jpg)
+
+### Mini Wireless Camara and Feed reciever
+Powered directly from the board but won't recieve any instructions from it, it will show the live feed to the reciver's device or a Go-Pro will work as well.
+
+![]()
+
