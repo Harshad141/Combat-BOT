@@ -127,7 +127,7 @@ Because of the lockdown as there isn't sufficient assets and equipment with
 us we could do just what we had however the model of the thought is
 prepared and it plays out all the capacities and soon as we get the alarm
 and camera both can be effectively be mounted on the bot and play out the
-predetermined capacities.
+predetermined capacities.**
 
 - Ultrasonic sensors: Detect the separation between two individuals.
 - LCD Display: It gives the necessary directions
