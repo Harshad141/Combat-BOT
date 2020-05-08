@@ -58,10 +58,10 @@ pins followed by the digital pins.
 - A wireless Camara should be palced on the Bot directly powered by the board which would send live feed to the reciver's device.
 
 
-[Click Here](https://docs.google.com/presentation/d/1Lg7Z7ok-MSCYx5nri9N9qs3nQ-s_bVMJNmFS2aFdbwE/edit#slide=id.p) for a PPT which which clarifies it in more detail
+##### [Click Here](https://docs.google.com/presentation/d/1Lg7Z7ok-MSCYx5nri9N9qs3nQ-s_bVMJNmFS2aFdbwE/edit#slide=id.p) for a PPT which which clarifies it in more detail
 
 
-[Click Here](https://github.com/Harshad141/AMI-hacks/blob/master/Code%20for%20IDE.c) Code for Arduino IDE.
+##### [Click Here](https://github.com/Harshad141/AMI-hacks/blob/master/Code%20for%20IDE.c) Code for Arduino IDE.
 
 Note: Use the lastest version of Arduino IDE with all the libraries installed in it. 
 
@@ -134,7 +134,7 @@ predetermined capacities.**
 - Alarm: Makes a buzz when somebody attempts to disregard social separating.
 - Camera : Helps in monitoring whatever is going on during the social affair.
 
-[Click Here](https://www.youtube.com/watch?v=J2O-vX-zKc4) for a video demonstration of a working prototype
+##### [Click Here](https://www.youtube.com/watch?v=J2O-vX-zKc4) for a video demonstration of a working prototype
 
 
 #### *Catagory*
