@@ -63,7 +63,7 @@ pins followed by the digital pins.
 
 [Click Here](https://github.com/Harshad141/AMI-hacks/blob/master/Code%20for%20IDE.c) Code for Arduino IDE.
 
-## Components Used
+## *Components Used*
 ### Arduino Uno
 The Arduino Uno is a microcontroller board based on the ATmega328.It has 20 digital input/output pins (of which 6 can be used as PWM outputs and 6 can be used as analog inputs), a 16 MHz resonator, a USB connection, a power jack, an in-circuit system programming ICSP) header and a reset button.
 
@@ -113,9 +113,10 @@ A servo motor is an electrical device that can push or rotate an object with gre
 ![](https://github.com/Harshad141/PATH-FINDER/blob/master/components/servo.jpg)
 
 ### Mini Wireless Camara and Feed reciever
-Powered directly from the board but won't recieve any instructions from it, it will show the live feed to the reciver's device or a Go-Pro will work as well.
+>Powered directly from the board but won't recieve any instructions from it, it will show the live feed to the reciver's device or a Go-Pro will work as well.
 
->We likewise vision our bot to click pictures of individuals who damage
+
+**We likewise vision our bot to click pictures of individuals who damage
 social separating and give an alarm when social removing is disregarded.
 Because of the lockdown as there isn't sufficient assets and equipment with
 us we could do just what we had however the model of the thought is
@@ -123,13 +124,35 @@ prepared and it plays out all the capacities and soon as we get the alarm
 and camera both can be effectively be mounted on the bot and play out the
 predetermined capacities.
 
--Ultrasonic sensors: Detect the separation between two individuals.
--LCD Display: It gives the necessary directions
--Alarm: Makes a buzz when somebody attempts to disregard social
-separating.
--Camera : Helps in monitoring whatever is going on during the social affair.
+- Ultrasonic sensors: Detect the separation between two individuals.
+- LCD Display: It gives the necessary directions
+- Alarm: Makes a buzz when somebody attempts to disregard social separating.
+- Camera : Helps in monitoring whatever is going on during the social affair.
 
-[Click Here]() for a video demonstration of a working prototype
+[Click Here](https://www.youtube.com/watch?v=J2O-vX-zKc4) for a video demonstration of a working prototype
+
+
+#### *Catagory*
+>Hardware
+
+#### *Domain Bucket*
+>Supporting At-Risk or Quarantined People
+
+
+#### *Tech Stack*
+- Ardunio Uno
+- Ultrasonic Sensor
+- Servo Motor
+- LCD and I2C LCD driver
+- 6V DC gear motor
+- Embedded C : Code for IDE
+- 2 channel motor driver
+
+#### *Useful Links*
+[Powerpoint Presentation](https://docs.google.com/presentation/d/1Lg7Z7ok-MSCYx5nri9N9qs3nQ-s_bVMJNmFS2aFdbwE/edit#slide=id.g84df18634a_0_293)
+[Code for Arduino IDE](https://github.com/Harshad141/AMI-hacks/blob/master/Code%20for%20IDE.c)
+[Video for working prototype](https://www.youtube.com/watch?v=J2O-vX-zKc4)
+
 
 ### TEAM: FireHawks
 
