@@ -135,15 +135,14 @@ predetermined capacities.**
 - Alarm: Makes a buzz when somebody attempts to disregard social separating.
 - Camera : Helps in monitoring whatever is going on during the social affair.
 
-#### [Click Here](https://www.youtube.com/watch?v=J2O-vX-zKc4) for a video demonstration of a working prototype
+#### [Click Here](https://www.youtube.com/watch?v=227Qce2ayUw&feature=youtu.be) for a video demonstration of a working prototype
 
 
 #### *Catagory*
 >Hardware
 
 #### *Domain Bucket*
->Supporting At-Risk or Quarantined People
-
+>Improving Awareness and Behavior
 
 #### *Tech Stack*
 - Ardunio Uno
@@ -161,7 +160,7 @@ predetermined capacities.**
 [Code for Arduino IDE](https://github.com/Harshad141/AMI-hacks/blob/master/Code%20for%20IDE.c)
 
 
-[Video for working prototype](https://www.youtube.com/watch?v=J2O-vX-zKc4)
+[Video for working prototype](https://www.youtube.com/watch?v=227Qce2ayUw&feature=youtu.be)
 
 
 [How to upload code into Arduino](https://www.youtube.com/watch?v=twUteiSGHPs)
