@@ -135,7 +135,7 @@ predetermined capacities.**
 - Alarm: Makes a buzz when somebody attempts to disregard social separating.
 - Camera : Helps in monitoring whatever is going on during the social affair.
 
-#### [Click Here](https://www.youtube.com/watch?v=227Qce2ayUw&feature=youtu.be) for a video demonstration of a working prototype
+#### [Click Here](https://www.youtube.com/watch?v=1HVN-zd9Qcc) for a video demonstration of a working prototype
 
 
 #### *Catagory*
@@ -160,7 +160,7 @@ predetermined capacities.**
 [Code for Arduino IDE](https://github.com/Harshad141/AMI-hacks/blob/master/Code%20for%20IDE.c)
 
 
-[Video for working prototype](https://www.youtube.com/watch?v=227Qce2ayUw&feature=youtu.be)
+[Video for working prototype](https://www.youtube.com/watch?v=1HVN-zd9Qcc)
 
 
 [How to upload code into Arduino](https://www.youtube.com/watch?v=twUteiSGHPs)
