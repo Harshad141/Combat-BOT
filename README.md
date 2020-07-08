@@ -142,7 +142,7 @@ predetermined capacities.**
 >Hardware
 
 #### *Domain Bucket*
->Improving Awareness and Behavior
+>IoT based technologies
 
 #### *Tech Stack*
 - Ardunio Uno
